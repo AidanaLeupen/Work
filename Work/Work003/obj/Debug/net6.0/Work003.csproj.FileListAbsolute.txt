@@ -1,0 +1,15 @@
+C:\Users\k_aid\Desktop\New folder\Work\Work003\bin\Debug\net6.0\Work003.exe
+C:\Users\k_aid\Desktop\New folder\Work\Work003\bin\Debug\net6.0\Work003.deps.json
+C:\Users\k_aid\Desktop\New folder\Work\Work003\bin\Debug\net6.0\Work003.runtimeconfig.json
+C:\Users\k_aid\Desktop\New folder\Work\Work003\bin\Debug\net6.0\Work003.dll
+C:\Users\k_aid\Desktop\New folder\Work\Work003\bin\Debug\net6.0\Work003.pdb
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.csproj.AssemblyReference.cache
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.AssemblyInfoInputs.cache
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.AssemblyInfo.cs
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.csproj.CoreCompileInputs.cache
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.dll
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\refint\Work003.dll
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.pdb
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\Work003.genruntimeconfig.cache
+C:\Users\k_aid\Desktop\New folder\Work\Work003\obj\Debug\net6.0\ref\Work003.dll
